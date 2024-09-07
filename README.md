@@ -5,7 +5,6 @@ This is a real-time chat application built with [Node.js/React/Next.js/other tec
 ## Features
 
 - **Real-time messaging**: Users can send and receive messages in real-time.
-- **User authentication**: Secure user login and registration.
 - **Message persistence**: All chat messages are stored in a database.
 - **Responsive design**: Mobile-friendly and works well on all device sizes.
 - **Secure API key management**: Environment variables for sensitive keys are securely managed via Vercel.
